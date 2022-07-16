@@ -1,1 +1,1 @@
-# chaincode-demo-usingContracrGoApi
+# chaincode-demo-usingContractGoApi
